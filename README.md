@@ -38,6 +38,7 @@ OpenRouter_API_Key=your_api_key_here
 
 **Run the App**:
 streamlit run NVIDIA_CHATBOT.py
-Author: Ismail Iqbal
+
+**Author**: Ismail Iqbal
 
 Building the future with Generative AI.
